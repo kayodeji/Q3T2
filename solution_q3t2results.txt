@@ -6,3 +6,15 @@ Result of numOf(J):
 
 Result of abbreviations
 ary,ary,rch,ril,May,une,uly,ust,ber,ber,ber,ber,
+
+#2 Random 6 x 5 array
+randomNums has 0 numbers greater than 20
+After adding 4, randomNums has 0 numbers greater than 20
+The sum before adding 4 was 346.9141898529743, and now it is 438.9141898529743
+
+
+ Middle Column values before:
+19.68623182780458, 18.43208530515568, 12.708806740607894, 16.648924593684153, 17.247805913004044, 4.186462148730184, 
+
+ Middle Column values after:
+0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 
