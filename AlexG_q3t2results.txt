@@ -1,0 +1,20 @@
+January,February,March,April,May,June,
+July,August,September,October,November,December,
+
+Result of numOf(J):
+0
+
+Result of abbreviations
+ary,ary,rch,ril,May,une,uly,ust,ber,ber,ber,ber,
+
+#2 Random 6 x 5 array
+randomNums has 0 numbers greater than 20
+After adding 4, randomNums has 0 numbers greater than 20
+The sum before adding 4 was 304.8258055602731, and now it is 408.8258055602731
+
+
+ Middle Column values before:
+14.048017400806268, 14.762857485901652, 16.265418887026033, 9.960092556038221, 10.756149381334083, 19.921800375961794, 
+
+ Middle Column values after:
+0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 

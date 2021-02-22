@@ -20,7 +20,7 @@ public class ayodeje
 		}
 		// Code to Test 
 		// Set up to write to file.
-        String outputFileName ="solution_q3t2results.txt";
+        String outputFileName ="AlexG_q3t2results.txt";
         PrintWriter out = new PrintWriter(outputFileName);
 		// Test #1
 		for (int i = 0; i< myStrings.length;i++)

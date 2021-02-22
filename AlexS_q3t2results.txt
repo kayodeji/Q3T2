@@ -1,0 +1,8 @@
+January,Febuary,March,April,May,June,
+July,August,September,October,November,December,
+
+Result of numOf(J):
+3
+
+Result of abbreviations
+ary,ary,rch,ril,May,une,uly,ust,ber,ber,ber,ber,
