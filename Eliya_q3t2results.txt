@@ -2,7 +2,7 @@ January,February,March,April,May,June,
 July,August,September,October,November,December,
 
 Result of numOf(J):
-0
+3
 
 Result of abbreviations
 ary,ary,rch,ril,May,une,uly,ust,ber,ber,ber,ber,
@@ -10,11 +10,11 @@ ary,ary,rch,ril,May,une,uly,ust,ber,ber,ber,ber,
 #2 Random 6 x 5 array
 randomNums has 0 numbers greater than 20
 After adding 4, randomNums has 0 numbers greater than 20
-The sum before adding 4 was 273.0420839377937, and now it is 373.0420839377937
+The sum before adding 4 was 285.11294416423846, and now it is 381.1129441642384
 
 
  Middle Column values before:
-16.79446075481096, 16.58993788748171, 12.07497713275187, 11.670455070145426, 7.855218002509511, 4.246202633564893, 
+5.669974203466387, 16.51318449185275, 11.91139811661823, 8.235385618451915, 19.271378122904032, 7.375271899021435, 
 
  Middle Column values after:
 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 
